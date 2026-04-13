@@ -88,17 +88,3 @@ npm run build
 3. Add editable category rules and merchant overrides
 4. Improve charting for longer time windows
 5. Move live AI requests behind a small backend proxy for safer key handling
-
-## Resume framing
-
-Example SWE framing:
-
-- Built a local-first personal finance dashboard that parsed and normalized multi-account CSV exports, separated spending from transfers, and surfaced budget insights across checking, credit-card, and peer-to-peer payment activity.
-
-Example AI framing:
-
-- Developed an AI-ready budgeting assistant that combined deterministic financial normalization with optional LLM-backed natural-language coaching over user transaction history.
-
-Example product framing:
-
-- Designed a budgeting workflow that helped users understand real spending behavior by distinguishing true expenses from internal account transfers and statement credits.
